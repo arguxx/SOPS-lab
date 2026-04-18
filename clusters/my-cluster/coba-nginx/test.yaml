@@ -21,6 +21,7 @@ spec:
                   volumeMounts:
                       - name: env-volume
                         mountPath: /.env
+                        subPath: .env
                         readOnly: true
             volumes:
                 - name: env-volume
