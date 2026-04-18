@@ -1,0 +1,8 @@
+DB_USER=ENC[AES256_GCM,data:rvapP43B,iv:+eaE5BUBePUnA7YrA6/ae0MUb1SNqhS36WMxnpSJ66U=,tag:oOqMNSyy+3wEcTti2Tk/1g==,type:str]
+DB_PASSWORD=ENC[AES256_GCM,data:W2U/3cp6HCZT,iv:ALIr7lRzRf8h4sALPKDxg1S10AoQbjReUAPcQRAf1jM=,tag:PgWa9BPO0SzN9KvR5i/Rew==,type:str]
+sops_age__list_0__map_enc=-----BEGIN AGE ENCRYPTED FILE-----\nYWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSByUGhNM0FhcEwrVDltZFdZ\naXF6aUFndkpnZFAzQ2VXMTdQaHZOc0dRZ3h3CmZVZTdWeldrZ01xTCtwZXFoSlgr\nOENKMUFhQ3N3cUVKMmUzQW52enN0QjgKLS0tIEZjaFQ3YVlzQUgwTVR5RUE2WGdT\nQXZLWlNidEx1SDJreUJ5TVhITDU5encKzWBgHfseoq0K2Df7P43X7q9i2EjS4uyk\nJ8eLCNBqcRRI0fOP2WKia2zHE4ek5MnHdOeMxlzyJHB0q2c5ciJeAA==\n-----END AGE ENCRYPTED FILE-----\n
+sops_age__list_0__map_recipient=age13h4xgfmmd9m96yxj7uy9f9ztawxvkcy85c86yv2lufzhugp2yplstm2mfg
+sops_lastmodified=2026-04-18T13:21:05Z
+sops_mac=ENC[AES256_GCM,data:xzfp2qSwlxp3sgvjfVsDiACcOlv5Amy9IEbuOJo+dzjTRPfXAIYLIKOBryFRiL3/0gu28Nhwz+eWqCEjxnKzXdXkvSNNwYHs4HOdQTo6+162BQSj52e134ZHF5IIZe/YXfpgWCFmqaJ8xcvRyXvIPtMmvX4u7DLv4ycdmGbY4CY=,iv:GDmBbnFEo6Wat+QhuEWb6LjRR04cZ2MrocC/MUUmFLE=,tag:srvE3ckZwri6njA2QWF+9w==,type:str]
+sops_unencrypted_suffix=_unencrypted
+sops_version=3.12.1
