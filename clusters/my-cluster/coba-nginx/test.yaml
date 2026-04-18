@@ -20,7 +20,7 @@ spec:
                       - containerPort: 80
                   volumeMounts:
                       - name: env-volume
-                        mountPath: /etc/env
+                        mountPath: /.env
                         readOnly: true
             volumes:
                 - name: env-volume
